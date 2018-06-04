@@ -40,6 +40,8 @@ header.startup h1 {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   margin-top: 150px;
+  position: relative;
+
 }
 
 .btn-primary:hover {
