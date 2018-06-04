@@ -24,6 +24,7 @@ header.startup h1 {
   font-weight: 500;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
+  margin-top: 150px;
   display: table;
   margin: 0 auto;
 }
