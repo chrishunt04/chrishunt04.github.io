@@ -9,6 +9,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.container {
+  text-align: center;
+}
+
 header.startup {
   background-position: center;
   background-image: url("map.jpg");
@@ -25,7 +29,8 @@ header.startup h1 {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   margin-top: 150px;
-  margin-left: 350px;
+  position: absolute;
+  top: 50%;
 }
 
 .btn-primary:hover {
