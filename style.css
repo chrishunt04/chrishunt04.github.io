@@ -12,7 +12,7 @@ body {
 header.startup {
   background-position: center;
   background-image: url("map.jpg");
-  background-size: contain;
+  background-size: cover;
   height: 100%;
 }
 
