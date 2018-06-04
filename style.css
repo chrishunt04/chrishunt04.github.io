@@ -24,9 +24,8 @@ header.startup h1 {
   font-weight: 500;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  margin-top: 150px;
-  margin: auto;
-  display: block;
+  display: table;
+  margin: 0 auto;
 }
 
 .btn-primary:hover {
