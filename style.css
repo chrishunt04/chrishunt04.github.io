@@ -9,26 +9,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-hr {
-  max-width: 65px;
-  border-width: 3px;
-  border-color: #F05F44;
-}
-
-.faded {
-  color: rgba(255, 255, 255, 0.8);
-}
-
 header.startup {
   background-position: center;
   background-image: url("map.jpg");
   background-size: contain;
   height: 100%;
-}
-
-header.startup hr {
-  margin-top: 200px;
-  margin-bottom: 30px;
 }
 
 header.startup h1 {
@@ -40,8 +25,7 @@ header.startup h1 {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   margin-top: 150px;
-  position: absolute;
-
+  margin-left: 350px;
 }
 
 .btn-primary:hover {
