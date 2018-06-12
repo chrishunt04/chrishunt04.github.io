@@ -24,11 +24,11 @@ header.startup h1 {
 }
 
 .btn {
+  color: white;
   margin-top: 300px;
   font-weight: 500;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  margin-top: 150px;
   display: table;
   margin: 0 auto;
 }
@@ -37,4 +37,26 @@ header.startup h1 {
   transform: scale(1.1);
   background-color: #033154;
   cursor: pointer;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+color: white;
+}
+
+a:visited {
+color: white;
+}
+
+a:hover {
+color: white;
+text-decoration: none;
+}
+
+a:active {
+color: white;
 }
